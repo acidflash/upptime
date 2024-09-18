@@ -5,7 +5,26 @@ repo: upptime # The name of this repository
 sites:
   - name: Connect.ax
     url: https://www.connect.ax
-
+  - name: Webmail
+    url: https://webmail.ipconnect.fi
+  - name: WEbhost
+    url: https://webhost.connect.ax:8080
+  - name: dns.connect.ax
+    url: dns.connect.ax
+    port: 53
+    check: "tcp-ping"
+  - name: dns2.ipconnect.fi
+    url: dns2.ipconnect.fi
+    port: 53
+    check: "tcp-ping"
+  - name: dns3.ipconnect.fi
+    url: dns3.ipconnect.fi
+    port: 53
+    check: "tcp-ping"
+  - name: dns4.ipconnect.fi
+    url: dns4.ipconnect.fi
+    port: 53
+    check: "tcp-ping"    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
