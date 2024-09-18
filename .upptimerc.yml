@@ -7,7 +7,7 @@ sites:
     url: https://www.connect.ax
   - name: Webmail
     url: https://webmail.ipconnect.fi
-  - name: WEbhost
+  - name: Webhost
     url: https://webhost.connect.ax:8080
   - name: dns.connect.ax
     url: dns.connect.ax
