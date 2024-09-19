@@ -24,7 +24,23 @@ sites:
   - name: dns4.ipconnect.fi
     url: dns4.ipconnect.fi
     port: 53
-    check: "tcp-ping"    
+    check: "tcp-ping"
+  - name: smtp3.ipconnect.fi
+    url: smtp3.ipconnect.fi
+    port: 25
+    check: "tcp-ping" 
+  - name: smtp11.ipconnect.fi
+    url: smtp11.ipconnect.fi
+    port: 25
+    check: "tcp-ping" 
+  - name: smtp12.ipconnect.fi
+    url: smtp12.ipconnect.fi
+    port: 25
+    check: "tcp-ping" 
+  - name: smtp13.ipconnect.fi
+    url: smtp13.ipconnect.fi
+    port: 25
+    check: "tcp-ping" 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
