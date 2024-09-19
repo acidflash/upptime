@@ -29,16 +29,16 @@ sites:
     url: smtp3.ipconnect.fi
     port: 25
     check: "tcp-ping" 
+  - name: smtp10.ipconnect.fi
+    url: smtp10.ipconnect.fi
+    port: 25
+    check: "tcp-ping" 
   - name: smtp11.ipconnect.fi
     url: smtp11.ipconnect.fi
     port: 25
     check: "tcp-ping" 
   - name: smtp12.ipconnect.fi
     url: smtp12.ipconnect.fi
-    port: 25
-    check: "tcp-ping" 
-  - name: smtp13.ipconnect.fi
-    url: smtp13.ipconnect.fi
     port: 25
     check: "tcp-ping" 
 
