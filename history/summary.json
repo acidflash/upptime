@@ -78,9 +78,9 @@
     "url": "dns2.ipconnect.fi",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns2-ipconnect-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 138,
     "timeMonth": 130,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 0
+    }
   },
   {
     "name": "dns3.ipconnect.fi",
