@@ -150,19 +150,19 @@
     "url": "smtp10.ipconnect.fi",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp10-ipconnect-fi",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "90.68%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "90.32%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.86%",
     "time": 131,
-    "timeDay": 106,
-    "timeWeek": 129,
-    "timeMonth": 128,
+    "timeDay": 104,
+    "timeWeek": 126,
+    "timeMonth": 127,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-11-29": 134
+      "2024-11-29": 139
     }
   },
   {
