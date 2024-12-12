@@ -1,7 +1,7 @@
 url: https://webhost.connect.ax:8080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-12T02:22:26.404Z
+status: up
+code: 200
+responseTime: 744
+lastUpdated: 2024-12-12T02:51:54.950Z
 startTime: 2024-09-18T14:29:26.641Z
 generator: Upptime <https://github.com/upptime/upptime>
