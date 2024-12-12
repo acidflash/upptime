@@ -4,10 +4,10 @@
     "url": "https://www.connect.ax",
     "icon": "https://icons.duckduckgo.com/ip3/www.connect.ax.ico",
     "slug": "connect-ax",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1952,
@@ -15,7 +15,9 @@
     "timeWeek": 1707,
     "timeMonth": 2522,
     "timeYear": 1952,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 1
+    }
   },
   {
     "name": "Webmail",
@@ -40,9 +42,9 @@
     "url": "https://webhost.connect.ax:8080",
     "icon": "https://icons.duckduckgo.com/ip3/webhost.connect.ax.ico",
     "slug": "webhost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1135,
     "timeMonth": 1121,
     "timeYear": 1046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "dns.connect.ax",
