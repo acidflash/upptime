@@ -156,11 +156,11 @@
     "url": "smtp10.ipconnect.fi",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp10-ipconnect-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 131,
     "timeDay": 150,
@@ -168,6 +168,7 @@
     "timeMonth": 128,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2025-02-18": 3,
       "2024-11-29": 139
     }
   },
@@ -176,10 +177,10 @@
     "url": "smtp11.ipconnect.fi",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp11-ipconnect-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 131,
@@ -188,6 +189,7 @@
     "timeMonth": 128,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2025-02-18": 1,
       "2024-11-29": 133
     }
   },
@@ -196,9 +198,9 @@
     "url": "smtp12.ipconnect.fi",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp12-ipconnect-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -208,6 +210,7 @@
     "timeMonth": 128,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2024-11-29": 19
     }
   }
