@@ -4,9 +4,9 @@
     "url": "https://www.connect.ax",
     "icon": "https://icons.duckduckgo.com/ip3/www.connect.ax.ico",
     "slug": "connect-ax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 1531,
     "timeYear": 1713,
     "dailyMinutesDown": {
+      "2025-06-10": 0,
       "2025-04-29": 49,
       "2024-12-29": 337,
       "2024-12-12": 30
