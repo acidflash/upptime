@@ -67,9 +67,9 @@
     "url": "dns.connect.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-connect-ax",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,6 +79,7 @@
     "timeMonth": 120,
     "timeYear": 129,
     "dailyMinutesDown": {
+      "2025-06-13": 0,
       "2024-11-11": 18
     }
   },
