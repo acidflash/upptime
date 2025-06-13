@@ -1,7 +1,7 @@
 url: dns.connect.ax
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-06-13T05:42:25.567Z
+lastUpdated: 2025-06-13T05:55:40.224Z
 startTime: 2024-09-18T11:00:49.689Z
 generator: Upptime <https://github.com/upptime/upptime>
